@@ -8,7 +8,16 @@
     <loc>http://ikamal.github.io/blog/archives/</loc>
   </url>
   <url>
+    <loc>http://ikamal.github.io/archives/</loc>
+  </url>
+  <url>
+    <loc>http://ikamal.github.io/categories/</loc>
+  </url>
+  <url>
     <loc>http://ikamal.github.io/</loc>
+  </url>
+  <url>
+    <loc>http://ikamal.github.io/posts/</loc>
   </url>
   <url>
     <loc>http://ikamal.github.io/blog/categories/octopress/</loc>
